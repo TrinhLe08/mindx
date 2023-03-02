@@ -1,0 +1,21 @@
+h1{
+   font-size: 400;
+   font-style: oblique;
+   color: blue;
+   text-transform: initial;
+
+
+}
+
+d {
+
+    font-style: italic;
+    color: chocolate;
+}
+ul{
+    color: darkblue;
+}
+ul:hover{
+
+    color: blue;
+}
