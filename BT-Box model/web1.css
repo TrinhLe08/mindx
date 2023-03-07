@@ -1,0 +1,124 @@
+html{
+    box-sizing: border-box;
+    
+    
+}
+
+#vip{
+  
+    width: auto;
+    height: auto;
+    position: relative;
+}
+
+h1{
+    width: auto;
+    height: 100px;
+    background-color: rgb(91, 91, 110);
+    padding: 50px 40px ;
+    box-sizing: border-box;
+   
+}
+
+.cl1{
+    background-color: rgb(195, 157, 231);
+    width: 49%;
+    height: 100%;
+    margin: 0px 25px 0px 0px;
+
+}
+.cl2{
+    background-color: bisque;
+    width: 94%;
+    margin: 10px;
+    text-align: center;
+
+}
+.cl4{
+   background-color: rgb(100, 237, 136);
+   margin: 10px;
+   width: 94%;
+
+}
+.cl5{
+    background-color: rgb(100, 237, 136);
+    margin: 10px;
+    width: 94%;
+ }
+ .cl6{
+    background-color: darkcyan;
+    width: 90px;
+    margin: 10px;
+ }
+ .cl1s{
+    background-color: rgb(150, 87, 150);
+    width: 49%;
+    height: 100%;
+    margin: 0px 0px 0px 25px;
+    position: absolute;
+    top: 0;
+    right: 0;
+ } 
+ .cl7{
+    background-color: brown;
+    width: 30%;
+    margin: 10px;
+    position: absolute;
+    top: 20%;
+    text-align: center;
+ }
+ .cl8{
+    background-color: rgb(80, 112, 255);
+    width: 30%;
+    margin: 10px;
+    position: absolute;
+    top:0px;
+    right: 35%;
+    text-align: center;
+ }
+ .cl9{
+    background-color: rgb(83, 34, 16);
+    width: 30%;
+    margin: 10px;
+    position: absolute;
+    top: 20%;
+    left: 65%;
+    text-align: center;
+ }
+ .cl10{
+    background-color: rgb(15, 123, 85);
+    width: 30%;
+    margin: 10px;
+    position: absolute;
+    top: 60%;
+    left: 65%;
+    text-align: center;
+ }
+ .cl11{
+    background-color: rgb(212, 199, 194);
+    width: 30%;
+    margin: 10px;
+    position: absolute;
+    top: 60%;
+    text-align: center;
+ }
+ .cl12{
+    background-color: rgb(194, 24, 224);
+    width: 30%;
+    margin: 10px;
+    position: absolute;
+    bottom:0px;
+    right: 35%;
+    text-align: center;
+ }
+ .cl13{
+    background-color: rgb(163, 226, 35);
+    width: 30%;
+    margin: 10px;
+    position: absolute;
+    top: 40%;
+    right: 35%;
+    text-align: center;
+ }
+
+
