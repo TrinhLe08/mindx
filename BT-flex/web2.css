@@ -1,0 +1,241 @@
+
+body{
+    box-sizing: border-box;
+}
+
+img{
+    width: 30px;
+    height: 20px;
+}
+
+.vip{
+    background-color: aqua;
+    width: 800px;
+    height: 230px;
+    margin: 0 0 0 20%;
+}
+
+.box1{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    height: 50px;
+    margin: 10px 0 10px 0;
+
+}
+.a1{
+background-color: bisque;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100px;
+border: 1px solid rgb(60, 68, 44);
+}
+.a2{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid rgb(223, 236, 198);
+    width: 270px;
+   
+}
+.as1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    border: 2px solid rgb(223, 236, 198);
+    background-color: rgb(57, 64, 187);
+}
+.as2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    border: 2px solid rgb(223, 236, 198);
+    background-color: rgb(57, 64, 187);
+}
+.as3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    border: 2px solid rgb(223, 236, 198);
+    background-color: rgb(57, 64, 187);
+}
+
+.box2{
+
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-between;
+    width: 800px;
+    height: 50px;
+    margin: 0 0 10px 0;
+}
+
+.ba{
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.bb{
+    width: 320px;
+    display: flex;
+    justify-content: space-between;
+}
+.b1{
+    background-color: bisque;
+    border: 1px solid rgb(60, 68, 44);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75px;
+    
+}
+.b2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+.b3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    width: 90px;
+
+}
+.b4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    width: 90px;
+}
+.b5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    width: 90px;
+}
+.b6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(223, 236, 198);
+    background-color: rgb(57, 64, 187);
+    width: 90px;
+}
+
+.box3{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-between;
+      width: 800px;
+      height: 50px;
+      margin: 0 0 10px 0;
+}
+.cs1{
+    
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.c1{
+    background-color: bisque;
+    border: 1px solid rgb(60, 68, 44);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+.c2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+.cs2{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.c3{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+   
+    
+}
+.c4{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    
+}
+.box4{
+    display: flex;
+    justify-content:space-between;
+      width: 800px;
+      height: 50px;
+}
+.d1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.da{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.d2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+.d3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+.d4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+.db{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.d5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+.d6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+
+
+
+
+
+
+
